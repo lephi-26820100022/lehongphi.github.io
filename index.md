@@ -1,2 +1,8 @@
 # Lê Hồng Phi Sinh viên năm nhất, ngành Khoa học máy tính, HUTECH. Trang này ghi lại những gì tôi làm trong học phần Nhập môn ngành.
-## Các trang - [Chân dung nghề của tôi](career.md) - [Bản đồ học tập bốn năm](roadmap.md) - [Làm việc nhóm](team.md) - [Dấu chân số của tôi](digital.md) - [Soi một hệ thống AI](ai-audit.md) - [Nhìn lại học kỳ](reflection.md)
+## Các trang 
+- [Chân dung nghề của tôi](career.md)
+- [Bản đồ học tập bốn năm](roadmap.md)
+- [Làm việc nhóm](team.md)
+- [Dấu chân số của tôi](digital.md)
+- [Soi một hệ thống AI](ai-audit.md)
+- [Nhìn lại học kỳ](reflection.md)
